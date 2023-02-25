@@ -1,2 +1,2 @@
-# camunda-demo-project
-Camunda Demo Project
+# camunda-docker-project
+Camunda Docker Project
